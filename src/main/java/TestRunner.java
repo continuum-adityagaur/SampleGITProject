@@ -9,7 +9,7 @@ import cucumber.api.junit.Cucumber;
 @CucumberOptions(monochrome = true, 
 			features = "src//test//resources", 
 			glue = "com.test.stepdefinations",
-			tags={"@Isha"}
+			tags={"@Aditya"}
 )
 
 public class TestRunner {
